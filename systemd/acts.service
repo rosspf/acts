@@ -3,4 +3,4 @@ Description=Acts Tarsnap backup
 
 [Service]
 Type=simple
-ExecStart=acts
+ExecStart=/bin/acts
