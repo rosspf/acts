@@ -3,6 +3,7 @@ ACTS 1.1
 ========
 
 Another Calendar-based Tarsnap Script
+Modified by Squirrely (rosspf)
 
 Introduction
 ------------
