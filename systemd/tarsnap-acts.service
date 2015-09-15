@@ -1,0 +1,6 @@
+[Unit]
+Description=Acts Tarsnap backup
+
+[Service]
+Type=simple
+ExecStart=acts
